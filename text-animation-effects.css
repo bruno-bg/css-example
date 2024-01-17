@@ -31,7 +31,6 @@ h2 span
     position: relative;
     color: rgba(255,255,255,0.1);
     animation: displayText 9s infinite;
-    /*line-height: 1.2em;*/
     animation-delay: calc(-3s * var(--i));
 }
 
